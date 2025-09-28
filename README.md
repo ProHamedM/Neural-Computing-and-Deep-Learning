@@ -1,4 +1,6 @@
-# Information
+# 📝 Information
+**Course:** Neural Computing and Deep Learning  
+**Specialization:** Artificial Intelligence  
+**Year:** 2025
 
-Neural Computing and Deep Learning Course
-2025
+🔄 Regular updates
